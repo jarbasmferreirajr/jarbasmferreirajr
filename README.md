@@ -24,23 +24,23 @@ Exercícios e projetos menores ficam organizados por tecnologia: [java](https://
 ## Tecnologias
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,spring,aws,docker,linux,git,githubactions,postgres,py,c,js,html,css" alt="Java, Spring, AWS, Docker, Linux, Git, GitHub Actions, PostgreSQL, Python, C, JavaScript, HTML e CSS" />
+  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,aws,docker,linux,windows,git,githubactions,postgres,py,c,js,html,css" alt="Java, Spring, Node.js, AWS, Docker, Linux, Windows, Git, GitHub Actions, PostgreSQL, Python, C, JavaScript, HTML e CSS" />
 </p>
 
 ## Agora
 
 - Estudando para a certificação AWS Certified Solutions Architect Associate (SAA-C03)
 - Publicando meus projetos e exercícios aqui, organizados por tecnologia
-- Em conclusão do cursão de Análise e Desenvolvimento de Sistemas no IFSC e cursando Engenharia de Software na Uniasselvi
+- Em conclusão do curso de Análise e Desenvolvimento de Sistemas no IFSC e cursando Engenharia de Software na Uniasselvi
 
 ## Formação
 
-- Especialização em Desenvolvimento Web (IFSUDEMINAS)
+- Especialização em Desenvolvimento Web (IFSULDEMINAS)
 - Especialização em Desenvolvimento Ágil de Software (UFPR)
 - Tecnólogo em Análise e Desenvolvimento de Sistemas (UNIFATECIE)
 - Licenciatura em Música (UFPI)
 - Técnico em Informática (IFNMG)
-- Técnico em Desenvolvimento de Sistemas (IFSUDEMINAS)
+- Técnico em Desenvolvimento de Sistemas (IFSULDEMINAS)
 
 ## Contato
 
@@ -51,8 +51,8 @@ Exercícios e projetos menores ficam organizados por tecnologia: [java](https://
 <details>
 <summary>English</summary>
 
-I have been working in IT infrastructure for just over three years, with a focus on monitoring, observability, and cloud—specifically AWS. Coming from a software development background, I enjoy operating at the intersection of code and the infrastructure that supports it.
+I have been working in IT infrastructure for just over three years, with a focus on monitoring, observability, and cloud, specifically AWS. Coming from a software development background, I enjoy operating at the intersection of code and the infrastructure that supports it.
 
-I am also a musician, holding a degree in Music Education, and my long-term goal is to develop my expertise in the field of music computing/music technology—placing the fusion of music and technology at the core of my work.
+I am also a musician, holding a degree in Music Education, and my long-term goal is to develop my expertise in the field of music computing/music technology, placing the fusion of music and technology at the core of my work.
 
 </details>
