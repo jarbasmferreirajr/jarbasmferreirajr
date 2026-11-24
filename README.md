@@ -6,7 +6,7 @@
 
 ## Sobre mim
 
-Trabalho com infraestrutura de TI há pouco mais de três anos, com foco em monitoramento, observabilidade e cloud AWS. Venho do desenvolvimento de software, então gosto de ficar no meio do caminho entre o código e a infraestrutura que o sustenta.
+Trabalho com infraestrutura de TI há 4 anos, com foco em monitoramento, observabilidade e cloud AWS. Venho do desenvolvimento de software, então gosto de ficar no meio do caminho entre o código e a infraestrutura que o sustenta.
 
 Também sou músico formado em Licenciatura em Música, e meu objetivo de longo prazo é me desenvolver na área de computação musical/music technology: juntando música e tecnologia como sendo o core.
 
@@ -51,7 +51,7 @@ Exercícios e projetos menores ficam organizados por tecnologia: [java](https://
 <details>
 <summary>English</summary>
 
-I have been working in IT infrastructure for just over three years, with a focus on monitoring, observability, and cloud, specifically AWS. Coming from a software development background, I enjoy operating at the intersection of code and the infrastructure that supports it.
+I have been working in IT infrastructure for four years, with a focus on monitoring, observability, and cloud, specifically AWS. Coming from a software development background, I enjoy operating at the intersection of code and the infrastructure that supports it.
 
 I am also a musician, holding a degree in Music Education, and my long-term goal is to develop my expertise in the field of music computing/music technology, placing the fusion of music and technology at the core of my work.
 
