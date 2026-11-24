@@ -6,9 +6,9 @@
 
 ## Sobre mim
 
-Trabalho com infraestrutura de TI há pouco mais de três anos, com foco em monitoramento, observabilidade e cloud com foco em AWS. Venho do desenvolvimento de software, então gosto de ficar no meio do caminho entre o código e a infraestrutura que o sustenta.
+Trabalho com infraestrutura de TI há pouco mais de três anos, com foco em monitoramento, observabilidade e cloud AWS. Venho do desenvolvimento de software, então gosto de ficar no meio do caminho entre o código e a infraestrutura que o sustenta.
 
-Também sou músico, formado em Licenciatura em Música, e meu objetivo de longo prazo é me desenvolver na área de computação musical/music technology: juntando música e tecnologia como sendo o core.
+Também sou músico formado em Licenciatura em Música, e meu objetivo de longo prazo é me desenvolver na área de computação musical/music technology: juntando música e tecnologia como sendo o core.
 
 ## Projetos em destaque
 
